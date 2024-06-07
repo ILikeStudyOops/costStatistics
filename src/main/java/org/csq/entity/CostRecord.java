@@ -18,7 +18,7 @@ public class CostRecord implements Serializable {
     /**
     * 外键-员工id
     */
-    private String employeeId;
+    private String fkEmployeeId;
     /**
     * 年份
     */
