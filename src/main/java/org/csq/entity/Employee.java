@@ -20,4 +20,6 @@ public class Employee implements Serializable {
     * 员工姓名
     */
     private String name;
+
+    private Integer sort;
 }
